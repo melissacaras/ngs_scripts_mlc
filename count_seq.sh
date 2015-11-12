@@ -1,3 +1,3 @@
 #!/bin/bash
-#BANANA!!!!!! I am hungry and want lunch.  Git is evil.
+#BANANA!!!!!! I am very  hungry and want lunch.  Git is evil.
 grep -c "^>" $1
